@@ -1,0 +1,1 @@
+Plataforma Game es un juego de plataformas en 2D desarrollado con Godot 4. El jugador controla un personaje que puede correr, saltar y recolectar monedas. Al recolectar una moneda, se gana el juego. El HUD muestra la puntuación, un mensaje de victoria o de Game Over, y un botón para reiniciar el nivel.
